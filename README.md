@@ -1,1 +1,8 @@
-# hg-2-charlie
+# Charlie
+
+| Usuario       | Nombre        | Ubicacion
+| ------------- | ------------- | ------------- |
+| Alfa          | Eduardo       | Caracas
+| Bravo         | Sebastian     | Valencia
+| Charlie       | Jessica       | Caracas
+| Delta         | Yoel          | Caracas
